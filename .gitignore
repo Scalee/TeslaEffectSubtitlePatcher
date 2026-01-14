@@ -1,0 +1,16 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Decompiled code
+IL/
+
+# Temporary files
+*.backup
+*.log
